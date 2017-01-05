@@ -2,8 +2,8 @@
 //  Menu.swift
 //  QuickResponse
 //
-//  Created by Roberto Carlos Callisaya Mamani on 12/27/16.
-//  Copyright © 2016 Roberto Carlos Callisaya Mamani. All rights reserved.
+//  Created by Roger A. Chiroque Ramirez on 12/27/16.
+//  Copyright © 2016 Roger A. Chiroque Ramirez. All rights reserved.
 //
 
 import UIKit
